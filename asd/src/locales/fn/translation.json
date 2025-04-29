@@ -1,0 +1,58 @@
+{
+    "nav": {
+      "men": "Hommes",
+      "women": "Femmes",
+      "more": "Plus chez ASD",
+      "personalized": "Personnalisé",
+      "blogs": "Blogs"
+    },
+    
+      "hero": {
+        "subheading": "Tendances en bague solitaire",
+        "title": "Un Cadeau Élégant Classique.",
+        "description": "Un cadeau en diamant classique incarne une élégance intemporelle, rendant chaque occasion spéciale et inoubliable pour les destinataires.",
+        "feature1": "Diamant 100% Authentique",
+        "feature2": "Mode Tendance"
+      },
+      
+        "collection": {
+          "men": {
+            "title": "Collection pour Hommes",
+            "subtitle": "Exprimez votre style avec des diamants pour hommes.",
+            "watch": "Montre",
+            "glasses": "Lunettes",
+            "bracelet": "Bracelet",
+            "chain": "Chaîne & Pendentif",
+            "ring": "Bague",
+            "earring": "Boucles d'oreilles",
+            "braces": "Bracelets"
+          },
+          "women": {
+            "title": "Collection pour Femmes",
+            "subtitle": "Éblouissez chaque jour avec des pièces en diamant pour femmes.",
+            "watch": "Montre",
+            "glasses": "Lunettes",
+            "bracelet": "Bracelet",
+            "pendant": "Pendentif",
+            "necklace": "Collier",
+            "rings": "Bagues",
+            "earring": "Boucles d'oreilles"
+          }
+        },
+
+        "popular": {
+          "title": "Choix Populaire",
+          "brand": "Diamant Aprilshine",
+          "watch": "Montre Moissanite Skeleton Bust Down",
+          "necklace": "Collier Tennis Moissanite 4mm",
+          "pendant": "Pendentif Croix Tennis",
+          "band": "Bande en Or 14k avec Diamant",
+          "bracelet": "Bracelet Tennis en Or 14k avec Diamant"
+        },
+         
+    
+    
+    "currency": "INR ₹",
+    "languageName": "Français"
+  }
+  
