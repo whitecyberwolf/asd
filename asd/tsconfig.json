@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "ESNext",                        /* Modern browsers */
+    "module": "ESNext",                        /* Vite uses ES modules */
+    "lib": ["DOM", "ESNext"],                  /* DOM + modern JS */
+    "jsx": "react-jsx",                        /* use the new JSX transform */
+    "strict": true,                            /* all strict type-checking options */
+    "esModuleInterop": true,                   /* allow default imports from CommonJS */
+    "skipLibCheck": true,                      /* speed up builds by skipping .d.ts checks */
+    "forceConsistentCasingInFileNames": true,  /* ensure file imports match casing */
+
+    /* Module Resolution */
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+
+    /* Emit Options */
+    "isolatedModules": true,                   /* required by Vite */
+
+    /* Source Maps */
+    "sourceMap": true,
+
+    /* Allow .js files (if any) */
+    "allowJs": false
+  },
+
+  /* Include your source (and our vite-env.d.ts) */
+  "include": ["src", "src/vite-env.d.ts"],
+
+  /* Exclude build output */
+  "exclude": ["node_modules", "dist"]
+}
