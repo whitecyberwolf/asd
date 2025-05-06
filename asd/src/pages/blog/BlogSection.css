@@ -1,0 +1,89 @@
+.blog-section {
+    font-family: 'Arial', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #333;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin: 2rem 0 1rem;
+    color: #222;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  
+  .latest-post {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .post-title {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #000;
+  }
+  
+  .post-excerpt {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+    color: #666;
+  }
+  
+  .post-date {
+    font-size: 0.9rem;
+    color: #888;
+    margin-bottom: 0.5rem;
+  }
+  
+  .recent-posts {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .recent-post {
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .recent-post:last-child {
+    border-bottom: none;
+  }
+  
+  .comments-label {
+    font-size: 0.8rem;
+    color: #888;
+    margin-left: 1rem;
+  }
+  
+  .read-more {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #b8860b;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .read-more:hover {
+    text-decoration: underline;
+  }
+  
+  @media (min-width: 768px) {
+    .recent-posts {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .recent-post {
+      border-bottom: none;
+    }
+  }

@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "men": "男士",
+    "women": "女士",
+    "more": "更多選擇",
+    "personalized": "個性化",
+    "blogs": "博客"
+  },
+  "hero": {
+    "subheading": "經典款單顆鑽戒趨勢",
+    "title": "經典優雅的禮物。",
+    "description": "經典的鑽石禮物體現了永恆的優雅，使每個場合都變得特別且令人難忘。",
+    "feature1": "100% 正品鑽石",
+    "feature2": "時尚潮流"
+  },
+"collection": {
+    "men": {
+      "title": "男士系列",
+      "subtitle": "使用鑽石展現您的風格。",
+      "watch": "手錶",
+      "glasses": "眼鏡",
+      "bracelet": "手鍊",
+      "chain": "鏈子與吊墜",
+      "ring": "戒指",
+      "earring": "耳環",
+      "braces": "護腕"
+    },
+    "women": {
+      "title": "女士系列",
+      "subtitle": "每天以女士鑽石作品閃耀。",
+      "watch": "手錶",
+      "glasses": "眼鏡",
+      "bracelet": "手鍊",
+      "pendant": "吊墜",
+      "necklace": "項鍊",
+      "rings": "戒指",
+      "earring": "耳環"
+    }
+  },
+  "popular": {
+    "title": "人氣精選",
+    "brand": "Aprilshine 鑽石",
+    "watch": "Moissanite 骨骼鑲嵌手錶",
+    "necklace": "4mm Moissanite 網球項鍊",
+    "pendant": "網球十字架吊墜",
+    "band": "14K 金鑽石戒指",
+    "bracelet": "14K 金鑽石網球手鏈"
+    
+  },
+  "currency": "港幣 HKD",
+  "languageName": "繁體中文"
+}
